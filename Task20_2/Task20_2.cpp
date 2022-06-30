@@ -20,4 +20,5 @@ int main()
 		}
 		pic << std::endl;
 	}
+	pic.close();
 }
